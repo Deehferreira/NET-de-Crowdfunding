@@ -1,0 +1,14 @@
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\bin\Debug\netcoreapp2.2\RawWeb.deps.json
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\bin\Debug\netcoreapp2.2\RawWeb.runtimeconfig.json
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\bin\Debug\netcoreapp2.2\RawWeb.runtimeconfig.dev.json
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\bin\Debug\netcoreapp2.2\RawWeb.dll
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\bin\Debug\netcoreapp2.2\RawWeb.pdb
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\obj\Debug\netcoreapp2.2\RawWeb.csprojAssemblyReference.cache
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\obj\Debug\netcoreapp2.2\RawWeb.csproj.CoreCompileInputs.cache
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\obj\Debug\netcoreapp2.2\RawWeb.RazorAssemblyInfo.cache
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\obj\Debug\netcoreapp2.2\RawWeb.RazorAssemblyInfo.cs
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\obj\Debug\netcoreapp2.2\RawWeb.AssemblyInfoInputs.cache
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\obj\Debug\netcoreapp2.2\RawWeb.AssemblyInfo.cs
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\obj\Debug\netcoreapp2.2\RawWeb.RazorTargetAssemblyInfo.cache
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\obj\Debug\netcoreapp2.2\RawWeb.dll
+C:\Users\LuizFelipe\OneDrive\Área de Trabalho\RawWeb\obj\Debug\netcoreapp2.2\RawWeb.pdb

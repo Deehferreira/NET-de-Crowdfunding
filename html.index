@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p> Parágrafo fixo na página HTML</p>
+%>
+response.write("<p style='color:#0000ff'>Parágrafo dinâmico com ASP</p")
+%>
+</body>
+</html>
